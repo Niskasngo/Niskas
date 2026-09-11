@@ -1,1 +1,29 @@
-
+{
+  "title": "Our Focus Areas",
+  "areas": [
+    {
+      "title": "Education",
+      "description": "Promoting quality education for all, especially for underprivileged children."
+    },
+    {
+      "title": "Health",
+      "description": "Improving health awareness and access to basic healthcare services."
+    },
+    {
+      "title": "Employment",
+      "description": "Creating livelihood opportunities and promoting vocational training."
+    },
+    {
+      "title": "Women Development",
+      "description": "Empowering women through skill development, awareness and participation."
+    },
+    {
+      "title": "Sustainable Agriculture Development",
+      "description": "Promoting sustainable agriculture and environment-friendly initiatives."
+    },
+    {
+      "title": "Entrepreneurship Development",
+      "description": "Supporting entrepreneurship, skills and income-generating opportunities."
+    }
+  ]
+}
