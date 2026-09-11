@@ -1,1 +1,29 @@
-
+{
+  "title": "Our Activities",
+  "activities": [
+    {
+      "title": "Community Health",
+      "description": "Health awareness, preventive healthcare and community-based health initiatives."
+    },
+    {
+      "title": "Education & Child Development",
+      "description": "Supporting education, awareness and development opportunities for children and disadvantaged communities."
+    },
+    {
+      "title": "Livelihood & Skill Development",
+      "description": "Promoting vocational skills, employment opportunities and sustainable income generation."
+    },
+    {
+      "title": "Women Development",
+      "description": "Supporting women's participation, skills, awareness and economic empowerment."
+    },
+    {
+      "title": "Sustainable Agriculture",
+      "description": "Promoting environmentally sound and sustainable agro-based livelihood activities."
+    },
+    {
+      "title": "Community Institution Building",
+      "description": "Formation and strengthening of Community Based Organizations and traditional community institutions."
+    }
+  ]
+}
