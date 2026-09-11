@@ -1,1 +1,12 @@
-
+{
+  "title": "Target Groups",
+  "groups": [
+    "Scheduled Castes (SC)",
+    "Scheduled Tribes (ST)",
+    "Other Backward Classes (OBC)",
+    "Other weaker and disadvantaged sections",
+    "Child labourers",
+    "Subsistence farmers affected by natural or man-made calamities",
+    "Women and children deprived of developmental rights"
+  ]
+}
